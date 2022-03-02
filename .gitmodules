@@ -1,0 +1,12 @@
+[submodule "the-artificial-ecosystem"]
+	path = the-artificial-ecosystem
+	url = https://github.com/Limboid/the-artificial-ecosystem.git
+[submodule "ainimal-ecosystem"]
+	path = ainimal-ecosystem
+	url = https://github.com/Limboid/ainimal-ecosystem.git
+[submodule "limboid-robot"]
+	path = limboid-robot
+	url = https://github.com/Limboid/limboid-robot
+[submodule "limboid.github.io"]
+	path = limboid.github.io
+	url = https://github.com/Limboid/limboid.github.io.git
